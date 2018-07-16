@@ -20,7 +20,5 @@ projects:
       - docs
       - italia
     documents:
-      - title: Documento demo
-        repository: demo-doc
-      - title: Anagrafe demo
-        repository: anagrafe-docs
+      - demo-doc
+      - anagrafe-docs
