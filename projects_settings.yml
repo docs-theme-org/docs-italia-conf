@@ -1,6 +1,6 @@
 projects:
   - name: Progetto per il nuovo tema Docs Italia
-    short-name: Progetto tema
+    short_name: Progetto tema
     description: |
       Lorem ipsum dolor sit amet, consectetur
       adipisicing elit, sed do eiusmod tempor
