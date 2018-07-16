@@ -22,3 +22,5 @@ projects:
     documents:
       - title: Documento demo
         repository: demo-doc
+      - title: Anagrafe demo
+        repository: anagrafe-docs
