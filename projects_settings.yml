@@ -20,7 +20,4 @@ projects:
       - docs
       - italia
     documents:
-      - demo-doc
-      - anagrafe-docs-davide
-      - lg-modellointeroperabilita
-      - docs-italia-guide-debug
+      - design-doc-test
