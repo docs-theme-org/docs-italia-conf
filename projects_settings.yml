@@ -24,3 +24,19 @@ projects:
       - 18app-esercenti-docs-test
       - carta-dei-principi-tecnologici-del-procurement
       - lg-competenzedigitali-docs-test
+  - name: Competenze digitali
+    short_name: Competenze digitali
+    description: |
+      L’Agenzia per l’Italia Digitale si occupa di supportare la definizione
+      delle competenze digitali per le professionalità operanti nel settore
+      dell’Information and Communication Technology (ICT) e per i soggetti che
+      utilizzano l’ICT all’interno delle attività lavorative, sia per ruoli di
+      tipo operativo che manageriale. Le attività di AGID sono finalizzate alla
+      catalogazione e allo sviluppo  di competenze digitali di base, di
+      e-leadership e specialistiche, con particolare attenzione alle nuove
+      professioni e al mondo delle piccole imprese per fornire linee guida di
+      riferimento per supportare la crescita digitale.
+    website: https://www.agid.gov.it/
+    logo: assets/images/logo-agid.png
+    documents:
+      - lg-competenzedigitali-docs
