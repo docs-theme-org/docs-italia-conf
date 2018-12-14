@@ -24,3 +24,9 @@ projects:
       - 18app-esercenti-docs-test
       - carta-dei-principi-tecnologici-del-procurement
       - lg-competenzedigitali-docs-test
+  - name: Test per integrazione con il forum
+    short_name: Test forum
+    description: |
+      Descrizione per il test di integrazione con forum.
+    documents:
+      - docs-forum-integration-test
