@@ -24,6 +24,7 @@ projects:
       - 18app-esercenti-docs-test
       - carta-dei-principi-tecnologici-del-procurement
       - lg-competenzedigitali-docs-test
+      - publiccode.yml
   - name: Test per integrazione con il forum
     short_name: Test forum
     description: |
